@@ -32,6 +32,7 @@ NodeCG bundles (or suites of bundles) that provide an entire production system b
 
 - [sgdq16-layouts](https://github.com/GamesDoneQuick/sgdq16-layouts) - The on-stream graphics used during Summer Games Done Quick 2016.
 - [toth4-overlay](https://github.com/TipoftheHats/toth4-overlay) - The main broadcast assets for Tip of the Hats 2016.
+- [b2aExtraLife](https://github.com/cshomo11/b2aExtraLife) - An Extra Life stream bundle. This overlay can display the last 10 donors, messages and upcoming games in the lower third, and the total amount of donations raised.
 
 ## Alerts
 Bundles which provide alerts on an overlay.
